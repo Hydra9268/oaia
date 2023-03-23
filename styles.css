@@ -964,26 +964,26 @@ pre[class*=language-] { border-radius: .3em;overflow: auto; }
 .token.italic { font-style: italic; } 
 .token.entity { cursor: help; } 
 @media screen and (-ms-high-contrast:active) { code[class*=language-], pre[class*=language-] { background: window;color: windowText; } :not(pre)>code[class*=language-], pre[class*=language-] { background: window; } .token.important { background: highlight;color: window;font-weight: 400; } .token.atrule, .token.attr-value, .token.function, .token.keyword, .token.operator, .token.selector { font-weight: 700; } .token.attr-value, .token.comment, .token.doctype, .token.function, .token.keyword, .token.operator, .token.property, .token.string { color: highlight; } .token.attr-value, .token.url { font-weight: 400; }  } 
-@font-face { font-family: KaTeX_AMS;font-style: normal;font-weight: 400;src: url(assets/KaTeX_AMS-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Caligraphic;font-style: normal;font-weight: 700;src: url(assets/KaTeX_Caligraphic-Bold.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Caligraphic;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Caligraphic-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Fraktur;font-style: normal;font-weight: 700;src: url(assets/KaTeX_Fraktur-Bold.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Fraktur;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Fraktur-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Main;font-style: normal;font-weight: 700;src: url(assets/KaTeX_Main-Bold.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Main;font-style: italic;font-weight: 700;src: url(assets/KaTeX_Main-BoldItalic.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Main;font-style: italic;font-weight: 400;src: url(assets/KaTeX_Main-Italic.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Main;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Main-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Math;font-style: italic;font-weight: 700;src: url(assets/KaTeX_Math-BoldItalic.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Math;font-style: italic;font-weight: 400;src: url(assets/KaTeX_Math-Italic.woff) format("woff"); } 
-@font-face { font-family: "KaTeX_SansSerif";font-style: normal;font-weight: 700;src: url(assets/KaTeX_SansSerif-Bold.woff) format("woff"); } 
-@font-face { font-family: "KaTeX_SansSerif";font-style: italic;font-weight: 400;src: url(assets/KaTeX_SansSerif-Italic.woff) format("woff"); } 
-@font-face { font-family: "KaTeX_SansSerif";font-style: normal;font-weight: 400;src: url(assets/KaTeX_SansSerif-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Script;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Script-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Size1;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Size1-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Size2;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Size2-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Size3;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Size3-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Size4;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Size4-Regular.woff) format("woff"); } 
-@font-face { font-family: KaTeX_Typewriter;font-style: normal;font-weight: 400;src: url(assets/KaTeX_Typewriter-Regular.woff) format("woff"); }
+@font-face { font-family: KaTeX_AMS;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_AMS-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Caligraphic;font-style: normal;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_Caligraphic-Bold.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Caligraphic;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Caligraphic-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Fraktur;font-style: normal;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_Fraktur-Bold.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Fraktur;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Fraktur-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Main;font-style: normal;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_Main-Bold.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Main;font-style: italic;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_Main-BoldItalic.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Main;font-style: italic;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Main-Italic.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Main;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Main-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Math;font-style: italic;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_Math-BoldItalic.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Math;font-style: italic;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Math-Italic.woff) format("woff"); } 
+@font-face { font-family: "KaTeX_SansSerif";font-style: normal;font-weight: 700;src: url(https://hydra9268.github.io/oaia/KaTeX_SansSerif-Bold.woff) format("woff"); } 
+@font-face { font-family: "KaTeX_SansSerif";font-style: italic;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_SansSerif-Italic.woff) format("woff"); } 
+@font-face { font-family: "KaTeX_SansSerif";font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_SansSerif-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Script;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Script-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Size1;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Size1-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Size2;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Size2-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Size3;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Size3-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Size4;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Size4-Regular.woff) format("woff"); } 
+@font-face { font-family: KaTeX_Typewriter;font-style: normal;font-weight: 400;src: url(https://hydra9268.github.io/oaia/KaTeX_Typewriter-Regular.woff) format("woff"); }
 .katex { font: normal 1.21em KaTeX_Main, Times New Roman, serif;line-height: 1.2;text-indent: 0;text-rendering: auto; } 
 .katex * { -ms-high-contrast-adjust: none !important;border-color: currentcolor; } 
 .katex .katex-version:after { content: "0.16.0"; } 
